@@ -1,0 +1,9 @@
+# Enbit Solutions
+
+> AI consulting, automation, and custom AI assistants to help businesses scale with accessible and ethical technology.
+
+Enbit Solutions helps businesses adopt AI through audits, team training, process automation, and custom AI assistants tailored to their data and workflows.
+
+## Pages
+
+- [Home](/): Overview of Enbit's AI consulting services, solutions, and contact information.
